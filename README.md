@@ -1,3 +1,5 @@
+
+# This Code should be use with API as build from NETCORE for reference to your SQLDataBase
 # Angular10
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
